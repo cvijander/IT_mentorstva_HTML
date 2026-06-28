@@ -1,0 +1,21 @@
+.profileImg {
+  border-radius: 25%;
+  width: 300px;
+}
+
+card {
+  border: 1px solid black;
+}
+
+.socialNetwork a img {
+  width: 80px;
+  margin: 10px 5px 20px 5px;
+}
+
+h2 {
+  color: gold;
+}
+
+h1 {
+  text-decoration: underline;
+}
