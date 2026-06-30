@@ -1,0 +1,19 @@
+.blueBackground {
+	background-color: blue;
+}
+
+.mainMenu {
+	background-color: rgb(35, 213, 226);
+}
+
+.textAlignCenter {
+	text-align: center;
+}
+
+.boldedText {
+	font-weight: bold;
+}
+
+/*
+  Komentar u css vezano za nesto 
+*/
